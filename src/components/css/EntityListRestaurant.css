@@ -1,0 +1,26 @@
+.CategoryList{
+    margin-top:1%;
+    margin-bottom:3%;
+   
+    display: inline-block;
+    width:100%
+}
+
+.Heading div h3{
+    
+    width:80%;
+    float: left;
+    margin:0px
+}
+#view{
+    color:rgb(23, 23, 75);
+    
+}
+a{
+    color:black
+}
+.ListEntity{
+    width:100%;
+    display: inline-block;
+    margin-top: 1%;
+}

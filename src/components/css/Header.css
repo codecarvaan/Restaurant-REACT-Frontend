@@ -1,0 +1,21 @@
+.HeaderSearchBar{
+    width: 500px;
+    margin-left: 30px;
+
+}
+.Search{
+    margin:0px;
+    margin-right:2%;
+    width:100%;
+    
+    
+}
+.Search input{
+    text-align: center;
+}
+.submitsearch {
+   width:100px;
+    margin-left:3px 
+}
+.SearchForm{
+display: inherit;}

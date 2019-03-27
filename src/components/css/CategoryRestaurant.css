@@ -1,0 +1,34 @@
+.CategoryList{
+    margin-top:1%;
+    margin-bottom:3%;
+   
+    display: inline-block;
+    width:100%
+}
+.HeadingSeeAll{
+    
+    background-color: rgba(22, 204, 53, 0.952);
+    padding:5px;
+    font-display: inherit;
+    border-radius: 10px;
+    color:white;
+    font-size: 20px;
+    
+}
+.Heading div h3{
+    
+    width:80%;
+    float: left;
+    margin:0px
+}
+#view{
+    color:rgb(23, 23, 75);
+    
+}
+.Heading{
+    font-size: 30px
+}
+.ListRestaurant{
+    min-width:1000px;
+    display: inline-block
+}

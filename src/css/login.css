@@ -1,0 +1,38 @@
+@media all and (min-width: 480px) {
+  .loginbox {
+    padding: 60px 0;
+    border: 1px solid rgb(241, 173, 168);
+    width: 30%;
+    background-color: rgb(255, 219, 119);
+
+    margin: auto;
+    margin-top: 1%;
+
+    height: 520%;
+
+    padding: 10px;
+  }
+  .text-muted {
+  }
+  .form-control {
+    width: 100%;
+    margin: 0%;
+  }
+  .btn {
+    width: 100%;
+  }
+  .infobox {
+    z-index: 2;
+    position:absolute;
+    left:70%;
+    width:25%;
+    word-wrap: break-word;
+    
+}
+.infobox-hide{
+    display:none;
+}
+.infobox-show{
+    display:block;
+}
+}

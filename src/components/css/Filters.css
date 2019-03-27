@@ -1,0 +1,45 @@
+.FiltersMain{
+    /* background-color: aqua; */
+    width:90%;
+    margin:auto;
+    margin-top:4%;
+    padding:15px;
+    
+    display: block
+}
+.GroupFields{
+    background-color: aquamarine;
+    padding:15px;
+    border-radius: 10px;
+    margin-bottom:2%
+}
+.col-sm-1{
+    text-align: center;
+    max-width: 100%;
+    margin:auto;
+    padding:0px;
+   
+}
+.bigcol{
+    text-align: center;
+    max-width: 100%;
+    margin:auto;
+    padding:0px
+}
+span{
+    vertical-align: middle;
+}
+.selection{
+
+padding:5px;
+border-radius: 5px
+}
+.container div{
+    
+}
+.form-label{
+    
+}
+.form-control{
+    
+}

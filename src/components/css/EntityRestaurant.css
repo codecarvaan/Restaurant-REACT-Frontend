@@ -1,0 +1,14 @@
+.Entity{
+    width:15%;
+    border:0.5px solid rgb(230, 154, 33);
+    border-radius: 2%;
+    background-color: rgb(230, 154, 33);
+    padding:10px;
+    margin:5px;
+    display: inline-block
+}
+.Details{
+
+text-align: center; 
+
+}
